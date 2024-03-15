@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/GameFramework.rpy", line 2121: invalid syntax
+            if "Go" inlocationobject.defaultinteractionarea.currentverbs:
+                     ^
+
+Ren'Py Version: Ren'Py 8.2.0.24012702
+Tue Mar 12 14:35:05 2024
